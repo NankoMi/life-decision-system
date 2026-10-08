@@ -1,0 +1,9 @@
+LOCAL.md
+finetune/decisions.jsonl
+finetune/ckpt-*/
+laya-model/
+__pycache__/
+*.safetensors
+*.pt
+finetune/book_dataset.jsonl
+.venv/
